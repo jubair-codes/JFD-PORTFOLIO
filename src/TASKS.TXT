@@ -1,0 +1,2 @@
+1. put the floating links and make anim for them
+2. review contact me buttons in hero.
