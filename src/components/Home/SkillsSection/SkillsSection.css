@@ -1,0 +1,5 @@
+.hover-green-shadow:hover {
+    box-shadow: 15px 15px 15px #51d85141;
+    color: #141414;
+    transition: box-shadow 300ms ease-in-out;
+}

@@ -1,0 +1,12 @@
+.shiver-anim {
+  animation: moveRightLeft 3s infinite ease-in-out;
+}
+
+@keyframes moveRightLeft {
+  0%, 100% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(5px);
+  }
+}
