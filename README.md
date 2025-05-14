@@ -1,6 +1,6 @@
 # A SHOWCASE WEBSITE FOR MY PORTFOLIO
 
-This is a website, which design was found from kitpapa.com/freelancer. Plese remind that websites are always in view and maintainence. It will be updated soon if there's a mistake found. Please consider waiting.
+This is a website, which design was found from [kitpapa.com/freelancer](https://kitpapa.net/freelancer/). Plese remind that websites are always in view and maintainence. It will be updated soon if there's a mistake found. Please consider waiting.
 The Progress of UI Design is on: Navbar & Header
 
 # TASKS SETTED NEXT:
